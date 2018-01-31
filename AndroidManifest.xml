@@ -8,7 +8,7 @@
     <!-- Set your application name here -->
     <application android:label="Escape from the Darkness"
 		 android:debuggable="false"
-		 android:icon="@logo_xash_eftd">
+		 android:icon="@drawable/logo_xash_eftd">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
                   android:label="Escape from the Darkness"
