@@ -4,10 +4,10 @@
       package="in.celest.xash3d.eftd"
       android:versionCode="51"
       android:versionName="1.0.1">
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
+    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="26"/>
     <!-- Set your application name here -->
     <application android:label="Escape from the Darkness"
-		 android:debuggable="true"
+		 android:debuggable="false"
 		 android:icon="@logo_xash_eftd">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
